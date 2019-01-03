@@ -51,7 +51,7 @@ Day 22:
 
 Day 23:
 
-Day 24:
+Day 24: More Linked Lists
 
 Day 25:
 
