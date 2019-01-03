@@ -45,7 +45,7 @@ Day 19: Interfaces
 
 Day 20: Sorting
 
-Day 21:
+Day 21: Generics
 
 Day 22:
 
