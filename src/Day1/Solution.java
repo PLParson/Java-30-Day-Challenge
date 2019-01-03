@@ -1,4 +1,4 @@
-package Day1_Data_Types;
+package Day1;
 
 import java.util.Scanner;
 
