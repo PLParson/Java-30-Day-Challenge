@@ -47,7 +47,7 @@ Day 20: Sorting
 
 Day 21: Generics
 
-Day 22:
+Day 22: Binary Search Trees
 
 Day 23:
 
