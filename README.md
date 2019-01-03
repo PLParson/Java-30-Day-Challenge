@@ -31,7 +31,7 @@ Day 12: Inheritance
 
 Day 13: Abstract Classes
 
-Day 14:
+Day 14: Scope
 
 Day 15:
 
