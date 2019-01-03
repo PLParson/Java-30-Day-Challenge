@@ -1,7 +1,10 @@
-package Day1;
+package Day1_Data_Types;
 
 import java.util.Scanner;
 
+/**
+ * https://www.hackerrank.com/challenges/30-data-types/problem
+ */
 public class Solution {
     public static void main(String[] args) {
         int i = 4;
