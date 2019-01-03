@@ -23,7 +23,7 @@ Day 8: Dictionaries and Maps
 
 Day 9: Recursion 3
 
-Day 10:
+Day 10: Binary Numbers
 
 Day 11:
 
