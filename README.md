@@ -1,7 +1,7 @@
 # Java-30-Day-Challenge
 challenges from www.hackerrank.com
 
-The solution for the daily challenges are located in src/Day.../Solution.Java
+The solution for the daily challenges are located in src/Day.../...Java
 
 Day 0: Hello World
 
@@ -11,7 +11,7 @@ Day 2: Operators
 
 Day 3: Intro to Conditional Statements
 
-Day 4:
+Day 4: Class vs. Instance
 
 Day 5:
 
