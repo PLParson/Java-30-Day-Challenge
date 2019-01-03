@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Day0.iml" filepath="$PROJECT_DIR$/Day0.iml" />
       <module fileurl="file://$PROJECT_DIR$/Day1.iml" filepath="$PROJECT_DIR$/Day1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java-30-Day-Challenge.iml" filepath="$PROJECT_DIR$/Java-30-Day-Challenge.iml" />
     </modules>
   </component>
 </project>
