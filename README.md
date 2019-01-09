@@ -61,4 +61,4 @@ Day 27: Testing
 
 Day 28: RegEx, Patterns, and Intro to Databases
 
-Day 29:
+Day 29: Bitwise AND
